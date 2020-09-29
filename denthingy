@@ -6,7 +6,7 @@ This comment must remain at the top in all cases - it will not be visible on fin
   
  
 body {
-background: url("https://naesushi.files.wordpress.com/2013/12/suga2.jpg") fixed;
+background: url("https://i.imgur.com/U3qZELq.jpeg") fixed;
 background-repeat: no-repeat;
 background-size: cover;
 color: #000;
