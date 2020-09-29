@@ -91,6 +91,7 @@ border-right: 1px solid #000;
   
 .sidebar {
 background: #474747;
+opacity: 0.5;
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
