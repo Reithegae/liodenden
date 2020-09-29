@@ -204,7 +204,11 @@ border: 1px solid #000;
 border-left: none;
 }
  
- 
+ p {
+    font-family: Arial !important;
+    text-align: left;
+    color: #000;
+ }
 
  
 /* 
