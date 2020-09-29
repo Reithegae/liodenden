@@ -98,7 +98,7 @@ color: #000;
 }
   
 .col-md-3 .panel {
-background: rgb(207, 179, 160);
+background: #FFF;
 border: 1px solid #000;
 box-shadow: none;    
 }
@@ -210,9 +210,6 @@ border-left: none;
     color: #000;
  }
 
-.panel .panel-body .small {
-   background: #f0eeff;
-}
  
 /* 
 CSS template originally created and presented by Kraft (#738/#1105)
