@@ -90,7 +90,8 @@ border-right: 1px solid #000;
 /* Sidebar */
   
 .sidebar {
-background: rgba(207, 179, 160, 0.36);
+background: #474747;
+opacity: 0.36;
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
@@ -131,13 +132,13 @@ background: none;
  
 .alert-danger {
 color: #000;
-background: rgb(207, 179, 160);
+background: #737373;
 border: 1px solid #000;
 }
  
 .alert-success {
 color: #000;
-background: rgb(207, 179, 160);
+background: #737373;
 border: 1px solid #000;
 }
  
