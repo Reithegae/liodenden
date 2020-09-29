@@ -189,7 +189,7 @@ color: #000;
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
 background: #474747;
-color: #FFFF;
+color: #000;
 }
  
 .table .left {
@@ -211,7 +211,7 @@ border-left: none;
  }
 
 .panel {
-
+   background: #f0eeff;
 }
  
 /* 
