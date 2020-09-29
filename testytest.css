@@ -210,7 +210,7 @@ border-left: none;
     color: #000;
  }
 
-.panel {
+.panel .panel-body .small {
    background: #f0eeff;
 }
  
